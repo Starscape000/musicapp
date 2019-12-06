@@ -2,7 +2,7 @@
 
 import ajax from './ajax.js'
 
-const BASE_URL = '/apis'
+const BASE_URL = 'api'
 
 // 获取手机验证码函数
 export const getCaptcha = (phone) => ajax(BASE_URL + '/captcha/sent', {phone})
