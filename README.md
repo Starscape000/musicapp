@@ -1,30 +1,23 @@
-# musicapp
+## 项目描述：
 
-> A Vue.js project
+### 1.此项目是一个音乐web app(SPA)应用
 
-## Build Setup
+### 2.有歌曲推荐，歌曲排行榜，歌曲榜单列表等多个模块
 
-``` bash
-# install dependencies
-npm install
+### 3.使用Vue全家桶+Webpack等前端技术
 
-# serve with hot reload at localhost:8080
-npm run dev
+### 4.采用模块化，组件化，工程化的开发模式
 
-# build for production with minification
-npm run build
+## 技术选型：
 
-# build for production and view the bundle analyzer report
-npm run build --report
+### 交互和组件化: vue vue-router vuex muse-ui axios vue-scroller swiper vue-lazyload
 
-# run unit tests
-npm run unit
+### 模块化: es6
 
-# run e2e tests
-npm run e2e
+### 项目构建/工程化: webpack vue-cli
 
-# run all tests
-npm test
-```
+### 项目部署： nginx
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## API接口数据：
+
+### 感谢： https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
