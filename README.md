@@ -18,6 +18,10 @@
 
 ### 项目部署： nginx
 
+### 项目截图：
+
+![a](src/assets/images/a.png)
+
 ## API接口数据：
 
 ### 感谢： https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
